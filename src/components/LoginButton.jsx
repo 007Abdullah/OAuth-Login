@@ -5,7 +5,7 @@ export default function LoginButton() {
     const { loginWithRedirect, isAuthenticated } = useAuth0();
     return (
         !isAuthenticated && (
-            <div>
+            <div style={{ margin: '0 auto' }}>
                 <button onClick={() => loginWithRedirect()}>LogIn</button>
             </div>
         )

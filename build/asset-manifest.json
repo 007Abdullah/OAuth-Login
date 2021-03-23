@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/OAuth-Login/static/css/main.9d5b29c0.chunk.css",
+    "main.js": "/OAuth-Login/static/js/main.7d5012b8.chunk.js",
+    "main.js.map": "/OAuth-Login/static/js/main.7d5012b8.chunk.js.map",
+    "runtime-main.js": "/OAuth-Login/static/js/runtime-main.fe785fb6.js",
+    "runtime-main.js.map": "/OAuth-Login/static/js/runtime-main.fe785fb6.js.map",
+    "static/js/2.db7d6fcc.chunk.js": "/OAuth-Login/static/js/2.db7d6fcc.chunk.js",
+    "static/js/2.db7d6fcc.chunk.js.map": "/OAuth-Login/static/js/2.db7d6fcc.chunk.js.map",
+    "static/js/3.9d5aa8a4.chunk.js": "/OAuth-Login/static/js/3.9d5aa8a4.chunk.js",
+    "static/js/3.9d5aa8a4.chunk.js.map": "/OAuth-Login/static/js/3.9d5aa8a4.chunk.js.map",
+    "index.html": "/OAuth-Login/index.html",
+    "static/css/main.9d5b29c0.chunk.css.map": "/OAuth-Login/static/css/main.9d5b29c0.chunk.css.map",
+    "static/js/2.db7d6fcc.chunk.js.LICENSE.txt": "/OAuth-Login/static/js/2.db7d6fcc.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.fe785fb6.js",
+    "static/js/2.db7d6fcc.chunk.js",
+    "static/css/main.9d5b29c0.chunk.css",
+    "static/js/main.7d5012b8.chunk.js"
+  ]
+}
